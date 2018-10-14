@@ -1,3 +1,3 @@
 # data-Viz
-Data Visualizatioin Course
+Data Visualizatioin Course:
 Visualizations from Titanic Dataset
